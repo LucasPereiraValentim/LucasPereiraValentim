@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**LucasPereiraValentim/LucasPereiraValentim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas
 
-Here are some ideas to get you started:
+Estou cursando Análise e Desenvolvimento de Sistemas e estudo JavaEE, Spring. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia, sempre estou aberto a adquirir novos conhecimentos.
+
+### 🤓 "Apenas comece, dê o primeiro passo" 🤓
+
+- 📍 Distrito Federal, Brasil.
+
+Minhas redes 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-valentim/)](https://www.linkedin.com/in/lucas-pereira-valentim/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lucas.vallentim/)](https://www.instagram.com/lucas.vallentim/)
